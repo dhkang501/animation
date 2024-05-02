@@ -19,7 +19,7 @@ function App() {
           Learn React
         </a>
       </header>
-      setting setting
+      setting setting setting
     </div>
   );
 }
